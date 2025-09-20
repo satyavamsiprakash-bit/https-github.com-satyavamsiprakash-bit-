@@ -1,0 +1,5 @@
+{
+  "name": "DS Digital Solutions Connect",
+  "description": "A streamlined application to register attendees for DS Digital Solutions Connect. This app collects professional information to enhance networking and provide personalized marketing support suggestions powered by Gemini.",
+  "requestFramePermissions": []
+}
